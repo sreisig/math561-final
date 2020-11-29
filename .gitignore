@@ -1,7 +1,3 @@
-# Keep a data folder but ignore everything except for a .gitkeep file
-data/*
-!data/.gitkeep
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
